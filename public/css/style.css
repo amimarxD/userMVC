@@ -1,0 +1,11 @@
+#main-content{
+	min-height: 96vh !important;
+}
+
+.btn-link {
+	white-space: normal;
+}
+
+#social-content .fa {
+	color:#fff !important;
+}
